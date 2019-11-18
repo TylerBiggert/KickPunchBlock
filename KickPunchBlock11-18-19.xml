@@ -3,7 +3,7 @@
   <dontWrapJar>false</dontWrapJar>
   <headerType>console</headerType>
   <jar>C:\Learning\KickPunchBlock\KickPunchBlock.jar</jar>
-  <outfile>C:\Learning\KickPunchBlock\KickPunchBlock.exe</outfile>
+  <outfile>KickPunchBlock11-18-19.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
